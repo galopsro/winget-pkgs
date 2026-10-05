@@ -5,9 +5,13 @@ PackageIdentifier: GALOP.WinMenu2Beletrik
 PackageVersion: 2.0.2606.08
 PackageLocale: cs-CZ
 Publisher: GALOP, s.r.o.
+PublisherUrl: https://www.galop.cz/
+PublisherSupportUrl: https://www.galop.cz/kontakt
 PackageName: WinMenu 2 Beletrik
+PackageUrl: https://www.galop.cz/winmenu
 License: Proprietary
 Copyright: Copyright © GALOP, s.r.o. 2026
-ShortDescription: Instalace WinMenu 2 Beletrik
+ShortDescription: Plně ozvučený program pro vyhledávání, stahování, čtení a poslech titulů z digitálních knihoven pro zrakově postižené.
+Description: WinMenu 2 Beletrik je plně ozvučený program pro nevidomé a slabozraké uživatele, který umožňuje vyhledávat, stahovat, číst a poslouchat tituly z digitálních knihoven a převádět digitální texty do souborů MP3.
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
